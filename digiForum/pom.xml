@@ -7,6 +7,24 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>digiForum Maven Webapp</name>
   <url>http://maven.apache.org</url>
+  
+  <properties>
+    <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
+    <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
+  </properties>
+
+  <modules>
+    <module>server</module>
+    <module>webapp</module>
+  </modules>
+
+  <distributionManagement>
+    <site>
+      <id>site-server</id>
+      <name>Test Project Site</name>
+      <url>file:///tmp/maven-project-site</url>
+    </site>
+  </distributionManagement>
   <build>
     <plugins>
       <plugin>
