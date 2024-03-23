@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Hello, Welcome to the DevSecOps World!</h1>
+<h1>Hello! Welcome to the DevSecOps World!</h1>
 <h2>Greeting! from Distal point Tech</h1>
 
 <!DOCTYPE html>   
