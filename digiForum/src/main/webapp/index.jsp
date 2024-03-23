@@ -2,8 +2,11 @@
 <body>
 <h1>Hello! Welcome to the DevSecOps World!</h1>
 <h2>Greeting! from Distal point Technologies</h2>
+<<<<<<< HEAD
 <h3>Greeting! from Distal point Technologies</h3>
 <h4> hello </h4>
+=======
+>>>>>>> branch 'master' of https://github.com/digitalpoint360/tomcat.git
 
 <!DOCTYPE html>   
 <html>   
